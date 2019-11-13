@@ -1,0 +1,914 @@
+{
+    "AARON": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/miscellaneous/aaronindustries/AI79",
+        "name": "Aaron Industrie"
+    },
+    "AMJUMBO": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/miscellaneous/amjumbobags/JB03",
+        "name": "A and M Jumbo B"
+    },
+    "ABMINTLTD": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/miscellaneous/abminternational/ABM02",
+        "name": "ABM Inter"
+    },
+    "AARVI": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/diversified/aarviencon/AE19",
+        "name": "Aarvi Encon"
+    },
+    "ACEINTEG": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/miscellaneous/aceintegratedsolutions/AIS",
+        "name": "ACE Integrated"
+    },
+    "ACCURACY": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/shipping/accuracyshipping/AS26",
+        "name": "Accuracy Shippi"
+    },
+    "AIROLAM": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/miscellaneous/airolam/AL08",
+        "name": "Airo Lam"
+    },
+    "AJOONI": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/diversified/ajoonibiotechltd/ABL01",
+        "name": "Ajooni Biotech"
+    },
+    "AHIMSA": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/plastics/ahimsaindustries/AI44",
+        "name": "Ahimsa Ind"
+    },
+    "AAKASH": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/engineeringheavy/aakashexplorationservices/AES01",
+        "name": "Aakash Explorat"
+    },
+    "AGROPHOS": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/diversified/agrophosindia/API",
+        "name": "Agro Phos India"
+    },
+    "AKASH": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/miscellaneous/akashinfraprojects/AI76",
+        "name": "Akash Infraproj"
+    },
+    "AIRAN": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/computershardware/airan/A09",
+        "name": "Airan"
+    },
+    "ALPSINDUS": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/textilesgeneral/alpsindustries/AI12",
+        "name": "Alps Industries"
+    },
+    "AMBANIORG": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/chemicals/ambaniorganics/AO",
+        "name": "Ambani Organics"
+    },
+    "AISL": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/engineering/aniintegratedservices/AIS02",
+        "name": "ANI Integrated "
+    },
+    "APOLSINHOT": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/hotels/apollosindoorihotels/ASH",
+        "name": "Apollo Sindoori"
+    },
+    "ANTGRAPHIC": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/printingstationery/antarctica/A16",
+        "name": "Antarctica"
+    },
+    "ASLIND": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/miscellaneous/aslindustries/AI77",
+        "name": "ASL Industries"
+    },
+    "ASPINWALL": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/miscellaneous/aspinwallcompany/AC27",
+        "name": "Aspinwall"
+    },
+    "AURDIS": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/miscellaneous/aurangabaddistillery/AD05",
+        "name": "Aurangabad Dist"
+    },
+    "AXISNIFTY": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/miscellaneous/axisniftyetf/AET02",
+        "name": "Axisnifty ETF"
+    },
+    "BANKA": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/miscellaneous/bankabioloo/BB08",
+        "name": "Banka Bioloo"
+    },
+    "AVSL": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/diversified/avslindustries/AI75",
+        "name": "AVSL Industries"
+    },
+    "AVONMPL": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/miscellaneous/avonmoldplast/AM09",
+        "name": "Avon Moldplast"
+    },
+    "ARTNIRMAN": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/constructioncontractingcivil/artnirman/AN",
+        "name": "Art Nirman"
+    },
+    "BANSAL": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/miscellaneous/bansalmultiflex/BM01",
+        "name": "Bansal Multifle"
+    },
+    "BETA": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/betadrugs/BD04",
+        "name": "Beta Drugs"
+    },
+    "BSHSL": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/miscellaneous/bombaysuperhybridseeds/BSH",
+        "name": "Bombay Super"
+    },
+    "BOHRA": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/miscellaneous/bohraindustries/BI18",
+        "name": "Bohra Industrie"
+    },
+    "BSLNIFTY": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/financeinvestments/birlasunlifeniftyetf/BSL03",
+        "name": "Birla Nifty ETF"
+    },
+    "BLUECHIP": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/financeinvestments/bluechipindia/BCI02",
+        "name": "Blue Chip"
+    },
+    "BSE": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/miscellaneous/bselimited/B08",
+        "name": "BSE Limited"
+    },
+    "BRIGHT": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/pumps/brightsolar/BS05",
+        "name": "Bright Solar"
+    },
+    "CAPCO": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/miscellaneous/capcoindustries/CI50",
+        "name": "Capco Ind"
+    },
+    "CADSYS": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/computerssoftwaremediumsmall/cadsysindia/CI51",
+        "name": "Cadsys India"
+    },
+    "BCONCEPTS": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/textilesgeneral/brandconceptsltd/BCL09",
+        "name": "Brand Concepts"
+    },
+    "CDSL": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/financeinvestments/centraldepositoryservicesltd/CDS",
+        "name": "CDSL"
+    },
+    "CKPPRODUCT": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/foodprocessing/ckpproducts/CP13",
+        "name": "CKP Products"
+    },
+    "CMMIPL": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/miscellaneous/cmminfraprojects/CI23",
+        "name": "CMM Infraprojec"
+    },
+    "CROWN": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/diversified/crownlifters/CL08",
+        "name": "Crown Lifters"
+    },
+    "CONTI": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/miscellaneous/continentalseedsandchemicalsltd/CSA",
+        "name": "Continental See"
+    },
+    "CREATIVE": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/miscellaneous/creativeperipheralsdistribution/CPD",
+        "name": "Creative Periph"
+    },
+    "DPABHUSHAN": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/miscellaneous/dpabhushan/DPA01",
+        "name": "D. P. Abhushan"
+    },
+    "CONSOFINVT": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/financegeneral/consolidatedfinvestholdings/CFH01",
+        "name": "Consol Finvest"
+    },
+    "DPWIRES": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/consumergoodselectronic/dpwires/W01",
+        "name": "D P Wires"
+    },
+    "E2E": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/e2enetworks/e2enetworks/EN",
+        "name": "E2E Networks"
+    },
+    "DSML": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/diversified/debocksalesmarketing/DSM03",
+        "name": "Debock Sales"
+    },
+    "ECEIND": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/electricals/eceindustries/ECE",
+        "name": "ECE Industries"
+    },
+    "DRL": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/constructioncontractingrealestate/dhanukarealty/DR01",
+        "name": "Dhanuka Realty"
+    },
+    "DEVIT": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/computerssoftware/devinformationtechnology/DIT02",
+        "name": "Dev Information"
+    },
+    "DPSCLTD": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/powergenerationdistribution/dpsc/DPS",
+        "name": "DPSC"
+    },
+    "DANGEE": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/foodprocessing/dangeedums/DD",
+        "name": "Dangee Dums"
+    },
+    "EMKAYTOOLS": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/engineering/emkaytapscuttingtools/ETC02",
+        "name": "Emkay Taps"
+    },
+    "ELGIRUBCO": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/tyres/elgirubbercompany/ERC01",
+        "name": "Elgi Rubber"
+    },
+    "EBANK": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/financegeneral/edelweissexchangetradedschemebanking/EET",
+        "name": "Edelweiss Bank"
+    },
+    "NIFTYEES": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/financeinvestments/edelweissniftyexchangetradedscheme/ENE",
+        "name": "Edelweiss Nifty"
+    },
+    "EQ30": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/financeinvestments/edelweissetfniftyquality30/EET01",
+        "name": "Edelweiss EQ30"
+    },
+    "EIFFL": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/foodprocessing/euroindiafreshfoods/EIF",
+        "name": "Euro India Fres"
+    },
+    "FELIX": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/miscellaneous/felixindustries/FI20",
+        "name": "Felix Industrie"
+    },
+    "FIVECORE": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/electricals/fivecoreelectronics/FCE01",
+        "name": "Five Core"
+    },
+    "FOCUS": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/miscellaneous/focuslightingfixtures/FLF03",
+        "name": "Focus Lighting "
+    },
+    "FOURTHDIM": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/computerssoftware/fourthdimensionsolutions/FDS01",
+        "name": "Fourth Dimensio"
+    },
+    "GANGAFORGE": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/machinetools/gangaforging/GF",
+        "name": "Ganga Forging"
+    },
+    "GLOBAL": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/miscellaneous/globaleducation/GE02",
+        "name": "Global Educatio"
+    },
+    "GKWLIMITED": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/fasteners/gkw/GKW",
+        "name": "GKW"
+    },
+    "GODHA": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/electricals/godhacabconinsulation/GCI06",
+        "name": "Godha Cabcon"
+    },
+    "GAYAHWS": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/gayatrihighway/gayatrihighwaysltd/GAYAH54154",
+        "name": "GAYATRI HIGHWAY"
+    },
+    "GEEKAYWIRE": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/consumergoodselectronic/geekaywires/GW01",
+        "name": "Geekay Wires"
+    },
+    "GIRIRAJ": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/cementmajor/girirajcivildevelopers/GCD02",
+        "name": "Giriraj Civil D"
+    },
+    "GLOBE": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/textilesgeneral/globetextilesindia/GTI",
+        "name": "Globe Textiles"
+    },
+    "HECPROJECT": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/engineering/hecinfraprojects/HIP",
+        "name": "HEC Infra Proje"
+    },
+    "HDFCNIFETF": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/financegeneral/hdfcniftyetf/HDF04",
+        "name": "HDFC Nifty ETF"
+    },
+    "ICEMAKE": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/miscellaneous/icemakerefrigeration/IMR",
+        "name": "ICE Make Refrig"
+    },
+    "INNOVATIVE": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/miscellaneous/innovativetyrestubes/ITT01",
+        "name": "Innovative Tyre"
+    },
+    "ICSA": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/computerssoftware/icsaindia/ICS",
+        "name": "ICSA"
+    },
+    "INNOVANA": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/computerssoftware/innovanathinklabs/IT06",
+        "name": "Innovana"
+    },
+    "INFOBEAN": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/computerssoftwaremediumsmall/infobeanstechnologies/IT05",
+        "name": "InfoBeans Tech"
+    },
+    "JASH": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/diversified/jashengineering/JE04",
+        "name": "Jash Engineerin"
+    },
+    "IVZINNIFTY": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/financeinvestments/invescoindianiftyexchangetradedfund/IIN",
+        "name": "Invesco India N"
+    },
+    "JAKHARIA": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/textilesgeneral/jakhariafabric/JF06",
+        "name": "Jakharia Fabric"
+    },
+    "JALAN": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/transportlogistics/jalantransolutions/JT03",
+        "name": "Jalan Transolut"
+    },
+    "JOCIL": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/chemicals/jocil/J01",
+        "name": "Jocil"
+    },
+    "JETFREIGHT": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/miscellaneous/jetfreightlogistics/JFL04",
+        "name": "Jet Freight Log"
+    },
+    "KAPSTON": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/miscellaneous/kapstonfacilitiesmanagement/KFM",
+        "name": "Kapston Facilit"
+    },
+    "JETKNIT": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/textilesreadymadeapparels/jetknitwears/JK",
+        "name": "Jet Knitwears"
+    },
+    "KALYANI": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/autoancillaries/kalyanicommercials/KC18",
+        "name": "Kalyani Comm"
+    },
+    "KEERTI": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/computerssoftware/keertiknowledgeskills/KKS",
+        "name": "Keerti Knowledg"
+    },
+    "JMA": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/autoancillaries/jullundurmotoragencydelhi/JMA",
+        "name": "Jullundur Motor"
+    },
+    "LAXMICOT": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/miscellaneous/laxmicotspin/LC03",
+        "name": "Laxmi Cotspin"
+    },
+    "LATTEYS": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/pumps/latteysindustries/LI13",
+        "name": "Latteys Industr"
+    },
+    "KOTHARIPET": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/trading/kotharipetrochem/KP12",
+        "name": "Kothari Petro"
+    },
+    "KOTARISUG": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/sugar/kotharisugarschemicals/KSC",
+        "name": "Kothari Sugars"
+    },
+    "KRISHANA": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/miscellaneous/krishanaphoschem/KP11",
+        "name": "Krishana Phosch"
+    },
+    "LEXUS": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/miscellaneous/lexusgranitoindia/LG",
+        "name": "Lexus Granito"
+    },
+    "KOTAKNV20": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/financegeneral/kotaknv20etf/KNV",
+        "name": "Kotak NV 20 ETF"
+    },
+    "KHAITANELE": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/domesticappliances/khaitanelectricals/KE02",
+        "name": "Khaitan Elec"
+    },
+    "KOTAKNIFTY": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/financeinvestments/kotakmahindramutualfundniftyetf/KMM01",
+        "name": "Kotak Nifty ETF"
+    },
+    "KOTAKBKETF": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/financeinvestments/kotakmahindramfkotakbankingetfdividendp/KMM03",
+        "name": "Kotak MF ETF"
+    },
+    "LIBAS": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/miscellaneous/libasdesigns/LD03",
+        "name": "Libas Designs"
+    },
+    "KKVAPOW": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/powergenerationdistribution/kkvagropowers/KAP",
+        "name": "KKV Agro Powers"
+    },
+    "LFIC": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/financegeneral/lakshmifinanceindustrialcorporation/LFI01",
+        "name": "Lakshmi Finance"
+    },
+    "LICNFNHGP": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/financeinvestments/licmflicmfetfnifty100/LIC9",
+        "name": "LIC MF- Nifty"
+    },
+    "LICNETFGSC": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/financegeneral/licmfgsecltetf/LIC06",
+        "name": "LICMF G-sec LT"
+    },
+    "LICNETFN50": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/financegeneral/licmfetfnifty50/LIC07",
+        "name": "LIC Nifty"
+    },
+    "LICNETFSEN": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/financeinvestments/licmutualfundlicmfexchangetradedfundse/LIC08",
+        "name": "LIC Sensex ETF"
+    },
+    "MCL": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/miscellaneous/madhavcopper/MC07",
+        "name": "Madhav Copper"
+    },
+    "MKPL": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/miscellaneous/mkproteins/P09",
+        "name": "M K Proteins"
+    },
+    "MBAPL": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/diversified/madhyabharatagroproducts/MBA",
+        "name": "Madhya Bharat A"
+    },
+    "MRO": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/compressors/mrorganisation/MRO02",
+        "name": "M R Org"
+    },
+    "MPTODAY": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/mediaentertainment/madhyapradeshtodaymedia/MPT01",
+        "name": "Madhya Pradesh "
+    },
+    "MAHESHWARI": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/miscellaneous/maheshwarilogistics/ML03",
+        "name": "Maheshwari Logi"
+    },
+    "MACPOWER": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/machinetools/macpowercncmachines/MCM03",
+        "name": "Macpower"
+    },
+    "MANAV": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/constructioncontractingcivil/manavinfraprojects/MIP01",
+        "name": "Manav Infra Pro"
+    },
+    "MITTAL": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/miscellaneous/mittallifestyleltd/MLS",
+        "name": "Mittal Life Sty"
+    },
+    "MDL": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/diversified/marveldecorltd/MDL",
+        "name": "Marvel Decor Lt"
+    },
+    "MMP": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/miscellaneous/mmpindustriesltd/MIL17",
+        "name": "MMP Industries"
+    },
+    "MILTON": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/diversified/miltonindustries/MI44",
+        "name": "Milton Industri"
+    },
+    "MOKSH": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/miscellaneous/mokshornamentsltd/MOl02",
+        "name": "Moksh Ornaments"
+    },
+    "MHHL": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/diversified/mohinihealthhygiene/MHH",
+        "name": "Mohini Health &"
+    },
+    "MASKINVEST": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/financegeneral/maskinvestments/MI60",
+        "name": "Mask Investment"
+    },
+    "MITCON": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/powergenerationdistribution/mitconconsultancyengineeringservices/MCE01",
+        "name": "Mitcon Cons"
+    },
+    "NARMADA": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/miscellaneous/narmadaagrobase/NA",
+        "name": "Narmada Agrobas"
+    },
+    "NDGL": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/plantationsteacoffee/nagadhunserigroup/NDG",
+        "name": "Naga Dhunseri"
+    },
+    "NANDANI": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/textilesreadymadeapparels/nandanicreation/NC09",
+        "name": "Nandani Creatio"
+    },
+    "NBIFIN": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/financegeneral/nbiindustrialfinancecompany/NBI02",
+        "name": "NBI Industrial"
+    },
+    "NITIRAJ": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/engineering/nitirajengineers/NE09",
+        "name": "Nitiraj Enginee"
+    },
+    "NIRAJISPAT": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/miningminerals/nirajispatindustries/NII03",
+        "name": "Niraj Ispat"
+    },
+    "NORBTEAEXP": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/plantationsteacoffee/norbenteaexports/NTE",
+        "name": "Norben Tea"
+    },
+    "NOESISIND": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/consumergoodselectronic/noesisindustries/MVL02",
+        "name": "Noesis Ind"
+    },
+    "SPCENET": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/computerssoftwaremediumsmall/northgatecomtech/NCT",
+        "name": "Northgate Com"
+    },
+    "ONEPOINT": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/miscellaneous/onepointonesolutionsltd/OPO",
+        "name": "One Point One S"
+    },
+    "OMFURN": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/miscellaneous/omfurnindia/OI14",
+        "name": "Omfurn India"
+    },
+    "OPAL": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/miscellaneous/opalluxurytimeproducts/OLT",
+        "name": "Opal Luxury"
+    },
+    "BINDALAGRO": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/fertilisers/oswalchemicalsfertilisers/OCF",
+        "name": "Oswal ChemandFe"
+    },
+    "PASHUPATI": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/diversified/pashupaticotspin/PC23",
+        "name": "Pashupati Cotsp"
+    },
+    "PANACHE": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/miscellaneous/panachedigilife/PD09",
+        "name": "Panache Digilif"
+    },
+    "PENTAGOLD": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/miscellaneous/pentagoldltd/PGL",
+        "name": "Penta Gold"
+    },
+    "PANORAMUNI": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/computerssoftwaremediumsmall/panoramicuniversal/PU",
+        "name": "Panoramic Uni"
+    },
+    "PERFECT": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/constructioncontractingcivil/perfectinfraengineers/PI32",
+        "name": "Perfect Infra"
+    },
+    "PKTEA": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/plantationsteacoffee/periakaramalaiteaproducecompany/PKT",
+        "name": "Peria Karamalai"
+    },
+    "PRITI": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/diversified/pritiinternational/PI43",
+        "name": "Priti Internati"
+    },
+    "PROLIFE": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/miscellaneous/prolifeindustries/PI42",
+        "name": "Prolife Industr"
+    },
+    "QVC": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/miscellaneous/qvcrealtyco/QVC",
+        "name": "QVC Realty Co"
+    },
+    "PULZ": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/miscellaneous/pulzelectronics/PE09",
+        "name": "Pulz Electronic"
+    },
+    "RMDRIP": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/diversified/rmdripsprinklerssystems/DSS04",
+        "name": "R M Drip & Spri"
+    },
+    "PRECOT": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/textilesspinningcottonblended/precotmeridian/PM",
+        "name": "Precot Meridian"
+    },
+    "PUSHPREALM": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/constructioncontractingcivil/pushpanjalirealmsinfratech/PRI01",
+        "name": "Pushpanjali Rea"
+    },
+    "POWERFUL": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/consumergoodselectronic/powerfultechnologies/PT09",
+        "name": "Powerful Techno"
+    },
+    "RRSLGETF": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/financeinvestments/relianceetflongtermgilt/RSL06",
+        "name": "R ETF Long Term"
+    },
+    "RELIABLE": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/diversified/reliabledataservices/RDS01",
+        "name": "Reliable Data S"
+    },
+    "RELDIVOPP": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/financegeneral/relianceetfdividendopportunities/RMF05",
+        "name": "Rel ETF DO"
+    },
+    "RELNV20": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/financeinvestments/relianceetfnv20/RMF06",
+        "name": "Reliance ETF NV"
+    },
+    "RAMGOPOLY": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/textilesprocessing/ramgopalpolytex/RP08",
+        "name": "Ramgopal Polyte"
+    },
+    "INFRABEES": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/financeinvestments/relianceetfinfrabees/IBE",
+        "name": "Reliance ETF"
+    },
+    "RELCONS": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/financegeneral/relianceetfconsumption/RMF04",
+        "name": "Reliance ETF Co"
+    },
+    "RKEC": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/diversified/rkecprojects/RP26",
+        "name": "RKEC Projects"
+    },
+    "REPL": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/infrastructuregeneral/rudrabhishekenterprises/RE11",
+        "name": "Rudrabhishek En"
+    },
+    "SSINFRA": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/miscellaneous/ssinfrastructuredevelopmentconsultantsltd/SID01",
+        "name": "S.S. Infrastruc"
+    },
+    "SAGARDEEP": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/metalsnonferrous/sagardeepalloys/SA05",
+        "name": "Sagardeep Alloy"
+    },
+    "SAKAR": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/miscellaneous/sakarhealthcare/SH15",
+        "name": "Sakar Healthcar"
+    },
+    "SANGINITA": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/chemicals/sanginitachemicals/SC56",
+        "name": "Sanginita Chemi"
+    },
+    "SANCO": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/plastics/sancoindustries/SI05",
+        "name": "Sanco Ind"
+    },
+    "SAKETH": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/machinetools/sakethexim/SE25",
+        "name": "Saketh Exim"
+    },
+    "SARVESHWAR": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/foodprocessing/sarveshwarfoods/SF29",
+        "name": "Sarveshwar Food"
+    },
+    "SETF10GILT": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/financeinvestments/sbimutualfundsbietf10yeargilt/SBI29",
+        "name": "SBI ETF"
+    },
+    "SBI": {
+        "url": "https://www.moneycontrol.com/india/stockpricequote/banks-public-sector/statebankindia/SBI",
+        "name" : "State Bank of India"
+    },
+    "SETFNN50": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/financeinvestments/sbimfetfniftyjunior/SBI25",
+        "name": "SBI ETF Junior"
+    },
+    "SETFNIFBK": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/financeinvestments/sbietfbanking/SBI26",
+        "name": "SBI ETF Banking"
+    },
+    "SETFNIF50": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/miscellaneous/sbietfnifty50/SBI27",
+        "name": "SBI-ETF Nifty"
+    },
+    "SECURCRED": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/diversified/securcredentials/SC10",
+        "name": "SecUR Credentia"
+    },
+    "SERVOTECH": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/electricals/servotechpowersystems/SPS04",
+        "name": "Servotech Power"
+    },
+    "SHANTI": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/miscellaneous/shantioverseasindia/SO01",
+        "name": "Shanti Overseas"
+    },
+    "SHRENIK": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/miscellaneous/shrenik/S25",
+        "name": "Shrenik"
+    },
+    "TIRUPATI": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/diversified/shreetirupatibalajeefibc/STB",
+        "name": "Shree Tirupati "
+    },
+    "SHAIVAL": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/constructioncontractingcivil/shaivalreality/SR09",
+        "name": "Shaival Reality"
+    },
+    "SHRADHA": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/constructioncontractingrealestate/shradhainfraprojects/SI65",
+        "name": "Shradha Infra"
+    },
+    "SRIRAM": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/consumergoodselectronic/shriramswitchgears/SRS01",
+        "name": "Shri Ram Switch"
+    },
+    "SHRIPISTON": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/autoancillaries/shrirampistonsrings/SPR02",
+        "name": "Shriram Pistons"
+    },
+    "SVLL": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/transportlogistics/shreevasulogistics/SVL01",
+        "name": "Shree Vasu"
+    },
+    "OSWALSEEDS": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/pesticidesagrochemicals/shreeoswalseedschemicals/SSC07",
+        "name": "Shreeoswal Seed"
+    },
+    "SIKKO": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/miscellaneous/sikkoindustries/SI51",
+        "name": "Sikko Industrie"
+    },
+    "SOLEX": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/miscellaneous/solexenergy/SE20",
+        "name": "Solex Energy"
+    },
+    "SILLYMONKS": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/mediaentertainment/sillymonksentertainment/SME03",
+        "name": "Silly Monks Ent"
+    },
+    "SONAMCLOCK": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/miscellaneous/sonamclock/SC23",
+        "name": "Sonam Clock"
+    },
+    "SMVD": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/smvdpolypack/smvdpolypackltd/SPP01",
+        "name": "SMVD Poly Pack "
+    },
+    "SINTERCOM": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/castingsforgings/sintercomindia/SI73",
+        "name": "Sintercom India"
+    },
+    "SIRCA": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/paintsvarnishes/sircapaintsindialtd/SPI06",
+        "name": "Sirca Paints"
+    },
+    "SILVERTUC": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/silvertouchte/silvertouchtechnologies/STT01",
+        "name": "Silver Touch Te"
+    },
+    "SIMPLEX": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/constructioncontractingcivil/simplexprojects/SP07",
+        "name": "Simplex Project"
+    },
+    "SOFTTECH": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/computerssoftware/softtechengineers/SE24",
+        "name": "Softtech Engine"
+    },
+    "SKSTEXTILE": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/textilesgeneral/skstextiles/ST27",
+        "name": "SKS Textiles"
+    },
+    "SOUTHWEST": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/diversified/southwestpinnacleexploration/SWP",
+        "name": "South West Pinn"
+    },
+    "STEELCITY": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/miscellaneous/steelcitysecurities/SCS09",
+        "name": "Steel City Secu"
+    },
+    "SGBMAY25": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/financeinvestments/sovereigngoldbonds250may2025sri201718/SGB09",
+        "name": "Sov Gold SR- I"
+    },
+    "SGBJUL25": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/financeinvestments/sovereigngoldbonds250jul2025srii201718/SGB08",
+        "name": "Sov Gold SR-II"
+    },
+    "SGBOCT25IV": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/financeinvestments/sovgoldbondsseriesivfy201718/SGB11",
+        "name": "Sov Gold Bonds "
+    },
+    "SKML": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/foodprocessing/srikrishnametcom/SKM01",
+        "name": "Sri Krishna Met"
+    },
+    "SUULD": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/miscellaneous/suumayalifestyle/SL19",
+        "name": "Suumaya Lifesty"
+    },
+    "SUPREMEENG": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/engineering/supremeengineering/SE26",
+        "name": "Supreme Enginee"
+    },
+    "SIIL": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/textileshosieryknitwear/supremeindiaimpex/SI94",
+        "name": "Supreme India"
+    },
+    "SUMIT": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/constructioncontractingrealestate/sumitwoods/SW01",
+        "name": "Sumit Woods"
+    },
+    "SUNDARMHLD": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/financegeneral/sundaramfinanceholdings/SFH",
+        "name": "Sundaram"
+    },
+    "SUREVIN": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/computerssoftwaremediumsmall/surevinbposervices/SBS01",
+        "name": "Surevin BPO Ser"
+    },
+    "TARACHAND": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/miscellaneous/tarachandlogisticsolutionsltd/TCL01",
+        "name": "Tara Chand Logi"
+    },
+    "THEJO": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/engineering/thejoengineering/TE09",
+        "name": "Thejo Engg"
+    },
+    "WIPL": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/miscellaneous/thewesternindiaplywoods/TWI",
+        "name": "The Western Ind"
+    },
+    "GROBTEA": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/plantationsteacoffee/thegrobteacompany/TGT",
+        "name": "The Grob Tea"
+    },
+    "THOMASCOTT": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/textilessyntheticsilk/thomasscottindia/TSI01",
+        "name": "Thomas Scott"
+    },
+    "TRANSWIND": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/infrastructuregeneral/transwindinfrastructures/TI24",
+        "name": "Transwind Infra"
+    },
+    "TOTAL": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/transportlogistics/totaltransportsystems/TTS01",
+        "name": "Total Transport"
+    },
+    "TOUCHWOOD": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/mediaentertainment/touchwoodentertainmentltd/TEL",
+        "name": "Touchwood Enter"
+    },
+    "URAVI": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/miscellaneous/uravitwedgelampsltd/UWL",
+        "name": "Uravi T and Wed"
+    },
+    "VAISHALI": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/vaishalipharma/VP01",
+        "name": "Vaishali Pharma"
+    },
+    "VSCL": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/chemicals/vadivarhespecialitychemicals/VSC04",
+        "name": "Vadivarhe Speci"
+    },
+    "VASA": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/miscellaneous/vasaretailoverseaslimited/VRO",
+        "name": "Vasa Retail and"
+    },
+    "UNITEDPOLY": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/textilesreadymadeapparels/unitedpolyfabgujarat/UPG",
+        "name": "United Polyfab "
+    },
+    "UNITEDTEA": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/plantationsteacoffee/unitednilgiriteaestatescompany/UNT",
+        "name": "United Nilgiri"
+    },
+    "UNIINFO": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/telecommunicationsservice/uniinfotelecomservicesltd/UTS",
+        "name": "Uniinfo Telecom"
+    },
+    "VARDHACRLC": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/textilesmanmade/vardhmanacrylics/VA08",
+        "name": "Vardhman Acryli"
+    },
+    "UTINIFTETF": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/financegeneral/utiniftyexchangetradedfund/UTI19",
+        "name": "UTI- Nifty ETF"
+    },
+    "UCL": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/dyespigments/ushanticolourchem/UCC",
+        "name": "Ushanti Colour "
+    },
+    "UNIVASTU": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/constructioncontractingcivil/univastuindia/UI21",
+        "name": "Univastu India"
+    },
+    "WORTH": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/packaging/worthperipherals/WP03",
+        "name": "Worth Periphera"
+    },
+    "ZOTA": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/zotahealthcare/ZHC",
+        "name": "Zota Health Car"
+    },
+    "WEALTH": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/financeinvestments/wealthfirstportfoliomanagers/WFP",
+        "name": "Wealth First Po"
+    },
+    "VERTOZ": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/mediaentertainment/vertozadvertising/VA09",
+        "name": "Vertoz Advertis"
+    },
+    "ZODIAC": {
+        "url": "http://www.moneycontrol.com/india/stockpricequote/powergenerationdistribution/zodiacenergy/ZE01",
+        "name": "Zodiac Energy"
+    }
+}
